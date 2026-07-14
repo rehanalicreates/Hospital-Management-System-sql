@@ -44,7 +44,7 @@ of the analysis layer.
 | File | Description |
 |------|-------------|
 | `hospital_management_system.sql` | Complete SQL script — schema, data generation, procs, triggers, views, 8 analysis queries |
-| `README.md` | This file |
+
 ## 👤 Author
 **Rehan Ali** — Data Analyst
 [GitHub](https://github.com/rehanalicreates)
